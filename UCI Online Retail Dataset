@@ -1,0 +1,11 @@
+Business Problem: Identifying high-value customer segments and analyzing retention trends in a wholesale retail environment.
+
+Key Insights Found:
+
+Retention: The Dec-2010 cohort showed a 35% retention rate by Month 3, significantly higher than subsequent cohorts.
+
+Geography: 82% of revenue is driven by UK-registered customers; however, Germany has a 15% higher Average Order Value (AOV).
+
+Segments: Identified 12% of the customer base as "Champions" using RFM scoring.
+
+Tech Stack: Pandas, NumPy
